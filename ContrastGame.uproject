@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7E3A59A7-4DDF-58EA-F1BB-04A012230CAB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ContrastGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
